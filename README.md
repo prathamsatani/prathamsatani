@@ -38,6 +38,8 @@
 ### 🗄️ Databases  
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)  
+![Milvus](https://img.shields.io/badge/Milvus-00B8D9?style=for-the-badge&logo=milvus&logoColor=white)  
+![ChromaDB](https://img.shields.io/badge/ChromaDB-5A20CB?style=for-the-badge&logo=chromadb&logoColor=white)  
 
 ### ⚙️ Tools & DevOps  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
@@ -63,8 +65,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prathamsatani&theme=radical" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=prathamsatani&theme=radical" alt="GitHub Streak"/>
 </p>
+
 
 ---
 
