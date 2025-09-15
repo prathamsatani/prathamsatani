@@ -64,7 +64,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathamsatani&layout=compact&theme=radical" alt="Top Languages" height="180em"/>
 </p>
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=prathamsatani&theme=radical" alt="GitHub Streak" /></a>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=prathamsatani&theme=radical" alt="GitHub Streak" />
+</p>
 
 
 ---
