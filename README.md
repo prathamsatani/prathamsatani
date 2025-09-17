@@ -11,7 +11,8 @@
 - ✍️ Former **Secretary** – IEEE Computer Society BVM SB (2023–2024)  
 - 🏆 Secured **Top 10 Rank** in *Code4Nature Contest* organized by FES NGO  
 - 📊 Undergraduate GPA: **3.23** | CGPA: **7.53/10**  
-- 🌍 TOEFL: **R27 | L28 | S27 | W25** | GRE: **Q166 | V148 | AWA 4.0**  
+- 🌍 TOEFL: **R27 | L28 | S27 | W25**
+- 📝 GRE: **Q166 | V148 | AWA 4.0**  
 
 ---
 
