@@ -93,8 +93,6 @@
 <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; margin: 20px 0;">
     <img src="https://github-readme-stats.vercel.app/api?username=prathamsatani&show_icons=true&theme=radical" alt="Pratham's GitHub stats" style="height: 180px;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathamsatani&layout=compact&theme=radical" alt="Top Languages" style="height: 180px;">
-</div>
-<div style="text-align: center;">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=prathamsatani&theme=radical" alt="GitHub Streak">
 </div>
 
