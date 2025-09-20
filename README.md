@@ -74,7 +74,7 @@
 
 ## 🌐 Connect With Me  
 - 💼 [LinkedIn](https://www.linkedin.com/in/pratham-satani)  
-- 📧 pratham.satani@gmail.com  
+- 📧 pratham.satani@outlook.com  
 - 🖥️ [GitHub](https://github.com/prathamsatani)  
 
 ---
