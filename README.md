@@ -18,7 +18,7 @@
     <li>🧑‍💻 Former <strong>Chairperson</strong> – Machine Learning Club @ BVM (2024)</li>
     <li>✍️ Former <strong>Secretary</strong> – IEEE Computer Society BVM SB (2023–2024)</li>
     <li>🏆 Secured <strong>Top 10 Rank</strong> in <em>Code4Nature Contest</em> organized by FES NGO</li>
-    <li>📊 Undergraduate GPA: <strong>3.23</strong> | CGPA: <strong>7.53/10</strong></li>
+    <li>📊 Undergraduate GPA: <strong>3.23</strong> | CGPA: <strong>7.92/10</strong></li>
     <li>🌍 TOEFL: <strong>R27 | L28 | S27 | W25</strong></li>
     <li>📝 GRE: <strong>Q166 | V148 | AWA 4.0</strong></li>
 </ul>
