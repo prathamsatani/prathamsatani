@@ -100,7 +100,7 @@
 
 <h2 style="border-bottom: 1px solid #e1e4e8; padding-bottom: 8px; margin-top: 24px;">🌐 Connect With Me</h2>
 <ul style="padding-left: 20px;">
-    <li>💼 <a href="https://www.linkedin.com/in/pratham-satani">LinkedIn</a></li>
+    <li>💼 <a href="https://www.linkedin.com/in/prathamsatani">LinkedIn</a></li>
     <li>📧 <a href="mailto:pratham.satani@outlook.com">pratham.satani@outlook.com</a></li>
     <li>🖥️ <a href="https://github.com/prathamsatani">GitHub</a></li>
 </ul>
