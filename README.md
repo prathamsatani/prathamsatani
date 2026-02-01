@@ -94,9 +94,8 @@
     <img src="https://github-readme-stats.vercel.app/api?username=prathamsatani&show_icons=true&theme=radical" alt="Pratham's GitHub stats" style="height: 180px;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathamsatani&layout=compact&theme=radical" alt="Top Languages" style="height: 180px;">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=prathamsatani&theme=radical" alt="GitHub Streak">
-    ![My GitHub Game](game.gif)
 </div>
-
+![My GitHub Game](game.gif)
 <hr style="border: none; border-top: 1px solid #e1e4e8; margin: 24px 0;">
 
 <h2 style="border-bottom: 1px solid #e1e4e8; padding-bottom: 8px; margin-top: 24px;">🌐 Connect With Me</h2>
