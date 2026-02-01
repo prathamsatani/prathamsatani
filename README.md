@@ -94,6 +94,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=prathamsatani&show_icons=true&theme=radical" alt="Pratham's GitHub stats" style="height: 180px;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathamsatani&layout=compact&theme=radical" alt="Top Languages" style="height: 180px;">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=prathamsatani&theme=radical" alt="GitHub Streak">
+    ![My GitHub Game](game.gif)
 </div>
 
 <hr style="border: none; border-top: 1px solid #e1e4e8; margin: 24px 0;">
